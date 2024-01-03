@@ -1,0 +1,7 @@
+#Exclude TF files
+.terraform/
+*.tfstate.*
+#Exclude PEM
+*.pem
+#Exclude PyCharm files
+.idea/
